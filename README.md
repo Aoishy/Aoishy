@@ -1,8 +1,9 @@
 <h1>~ Hello there 👋 I'm Noushin Tabassum Aoishy! ~</h1>
 
-I go by **Aoishy** online. I'm a **Computer Science and Engineering** student at _BUET_, passionate about building scalable systems and solving complex problems. As a **software enthusiast & CS Student**, I enjoy working on real-world applications and exploring system-level concepts.
+I go by **Aoishy** online. I'm a **Computer Science and Engineering** Graduate from_BUET_, passionate about building scalable systems and solving complex problems. As a **software enthusiast & CS Student**, I enjoy working on real-world applications and exploring system-level concepts.
 
 ### About Me
+- Software Engineer at **Gram Bangla Systems Limited**. 
 - 🎓 Final year **CSE student at BUET** (Graduating May 2026).
 - 🧠 Strong foundation in **Data Structures & Algorithms** and problem solving.
 - 🧑‍💻 Experienced in **full-stack development** with a strong focus on backend systems.
